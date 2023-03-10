@@ -224,4 +224,9 @@ Printing each file name as it’s redacted:
     Printing a successfully completed message at the end of the script:
     print("\nSuccessfully redacted " + str(len(pdf_files)) + " files")
 
-The full file is available above (Redaction.py)
+The full file is available here:
+
+## [Python Bulk PDF Redaction]( https://github.com/DOLEARY85/Python-PDF-Redaction/blob/main/Redaction.py)
++ Authors: [Daniel O’Leary]( https://github.com/DOLEARY85)
++ Created: 10.03.2023
+
