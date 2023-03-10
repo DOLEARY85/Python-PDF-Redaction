@@ -226,3 +226,4 @@ Printing each file name as it’s redacted:
     Printing a successfully completed message at the end of the script:
     print("\nSuccessfully redacted " + str(len(pdf_files)) + " files")
 
+The full file is available above (Redaction.py)
