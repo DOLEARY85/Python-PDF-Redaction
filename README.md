@@ -15,8 +15,8 @@ from pathlib import Path
 
 The pathlib library is used to reference the file path. I’ve opted for a manual input to allow the user to enter the directory where the PDF files are located, but it could be adapted to a static location. The manual input is currently a string so I’ve used ‘Path’ to change the input directory to something useable. Having a manual input can lead to various types of user error but I’ll come back to error handling a bit later.
 Now you have your directory, you’ll need to search it and produce a list of PDF files contained within it:
-# list of pdfs in dir
 
+    # list of pdfs in dir
     pdf_files = list(dir_path.glob('*.pdf'))  # convert result to a list
 
 The glob function will retrieve files matching a specific pattern, in this case pdf files. 
