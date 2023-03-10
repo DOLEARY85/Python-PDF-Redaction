@@ -1,4 +1,4 @@
-# Python-PDF-Redaction
+# Bulk PDF Redaction Python
 
 Looking for an adaptable way to Bulk redact PDF’s in Python?
 
