@@ -21,8 +21,8 @@ Now you have your directory, you’ll need to search it and produce a list of PD
 
 The glob function will retrieve files matching a specific pattern, in this case pdf files. 
 Next it is a good idea to create an output directory where you will save a copy of the redacted PDF’s, I’ve used the same manual input as with the PDF input directory:
-# Output directory for manual input
 
+    # Output directory for manual input
     OutDir = input("\nEnter an output directory for redacted files: ")  
 
 Now we should have our list of files, next we need to have a list of what we want to redact. This can be done in a number of ways: you can add them to the script, have users input them directly or bring them in from an input file. In this script we’ll cover all of these options for both words and Regular Expressions. First thing to do is set up your lists, I’ve separated them out for potential future reporting purposes.
