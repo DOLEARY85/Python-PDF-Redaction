@@ -213,6 +213,7 @@ Additionally I added an exit on the input directory if no PDF files were found.
 # User Messaging
 Finally, I added a few messages to update the user on the process:
 Printing the files found in the PDF input directory:
+
     # output messages of files found
     print("\n" + str(len(pdf_files)) + " files found\n\nFile list:\n")
     for i in pdf_files:
