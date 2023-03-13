@@ -2,7 +2,7 @@
 
 Looking for an adaptable way to bulk redact PDF’s in Python?
 
-This technical guide should provide basics to get you started.
+This guide should provide basics to get you started.
 
 # Importing the PDF’s
 The first step to import the PDF directory:
