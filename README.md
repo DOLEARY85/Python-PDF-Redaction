@@ -36,11 +36,11 @@ Now we should have our list of files, next we need to have a list of what we wan
     words = Pre_determined_words + Manual_words + regex_words
 
 I have created 5 lists:
-•	Pre_determined_words – this will be anything you want to have pre-input into the script
-•	regex list – this will contain a list of expressions – either manually entered or from a file
-•	Manual_words – this will be a manual input from the user running the script
-•	regex_words – this will be a list of the words found using the expressions entered.  
-•	Words – this will be a combined list to run through and redact. (this is just for demonstration purposes as we will need to move this later as once we move to looking at Regular Expressions.)
++	Pre_determined_words – this will be anything you want to have pre-input into the script
++	regex list – this will contain a list of expressions – either manually entered or from a file
++	Manual_words – this will be a manual input from the user running the script
++	regex_words – this will be a list of the words found using the expressions entered.  
++	Words – this will be a combined list to run through and redact. (this is just for demonstration purposes as we will need to move this later as once we move to looking at Regular Expressions.)
 
 # Applying the Redaction
 
