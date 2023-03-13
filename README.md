@@ -1,6 +1,6 @@
 # Bulk PDF Redaction Python
 
-Looking for an adaptable way to Bulk redact PDF’s in Python?
+Looking for an adaptable way to bulk redact PDF’s in Python?
 
 This technical guide should provide basics to get you started.
 
